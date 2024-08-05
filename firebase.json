@@ -1,1 +1,3 @@
+
+
 {"flutter":{"platforms":{"android":{"default":{"projectId":"spotify-web-app-7aab1","appId":"1:1001096309878:android:6030bf723da47bbe06c357","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"spotify-web-app-7aab1","configurations":{"android":"1:1001096309878:android:6030bf723da47bbe06c357","ios":"1:1001096309878:ios:d6aefcd0c5a09c5506c357","macos":"1:1001096309878:ios:d6aefcd0c5a09c5506c357","web":"1:1001096309878:web:ea832537568ec2a306c357","windows":"1:1001096309878:web:0a1b1a283ffca04f06c357"}}}}}}
