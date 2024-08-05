@@ -4,12 +4,12 @@
 *.pyc
 *.swp
 *.env
+*.firebase.json
 .DS_Store
 .atom/
 .buildlog/
 .history
 .svn/
-.firebase.json
 migrate_working_dir/
 
 # IntelliJ related
